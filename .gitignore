@@ -8,6 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-credentials_iumrs.json
-credentials_panirand.json
-token.json
+credentials*.json
+token*.json
