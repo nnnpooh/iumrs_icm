@@ -17,7 +17,9 @@ dependencies = [
     "notebook>=7.5.3",
     "openpyxl>=3.1.5",
     "pandas>=3.0.1",
+    "pdfreader>=0.1.15",
     "pypdf>=6.7.1",
+    "pypdf2>=3.0.1",
     "ruff>=0.15.2",
     "xlsxwriter>=3.2.9",
 ]
